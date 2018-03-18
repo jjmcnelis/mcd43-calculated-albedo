@@ -1,4 +1,4 @@
-# R Scripts for Calculating Black, White, and Actual Albedo (MCD43A) from MCD43A1
+# R Scripts for Calculating Black, White, and Actual Albedo (MCD43A) from MCD43A1 BRDF Parameters
 
 ### Why?
 
