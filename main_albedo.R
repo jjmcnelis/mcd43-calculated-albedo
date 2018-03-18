@@ -3,7 +3,7 @@
 #####################################################################################
 
 # Set your working directory. Contains R scripts (main_aledo.R, f_albedo.R, proc_albedo.R), lookup tables (vis_lut.csv, nir_lut, sw_lut.csv), and input NetCDF
-wkd <- 'D:/Projects/MCD43A/github/'
+wkd <- '/path/to/your/working/directory/'
 setwd(wkd)
 
 # Set path and filename for input NetCDF. Default output from AppEEARS should be MCD43A1.006_aid0001.nc
