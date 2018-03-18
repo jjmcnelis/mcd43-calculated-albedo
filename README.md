@@ -1,5 +1,7 @@
 # R Scripts for calculating black-sky, white-sky, and actual albedo (MCD43A) from MCD43A1 BRDF Parameters
 
+![Broken Image Link --- browse image](https://github.com/jjmcnelis/mcd43-calculated-albedo/blob/master/readme/browse_image.PNG?raw=true)
+
 ### Why?
 
 While some users are content to use the MODIS black-sky albedo at local solar noon and the white-sky albedo measures as provided in [**MCD43A3**](https://lpdaac.usgs.gov/dataset_discovery/modis/modis_products_table/mcd43a3_v006), most researchers want to make use of the BRDF model parameters ([**MCD43A1**](https://lpdaac.usgs.gov/dataset_discovery/modis/modis_products_table/mcd43a1_v006)) to obtain black-sky albedos at other solar illumination angles through the use of a simple polynomial or to combine the black-sky and white-sky albedos as a function of optical depth to calculate "actual" or blue-sky albedos for validation studies.
