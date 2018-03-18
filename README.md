@@ -39,7 +39,7 @@ An example input file is provided: *./example-data/MCD43A1.006_aid0001.nc*. You 
 
 #### Usage
 
-The primary script (*main_albedo.R*) calls the functions defined in *f_albedo.R* and *proc_albedo.R*. Open *main_albedo.R* and make a few edits to the settings in the first section:
+The primary script (*main_albedo.R*) calls the functions defined in *f_albedo.R*. Open *main_albedo.R* and make a few edits to the settings in the first section:
 ```
 # Set your working directory
 # Contains R scripts, lookup tables (vis_lut.csv, nir_lut, sw_lut.csv), and input NetCDF
