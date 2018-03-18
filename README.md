@@ -1,4 +1,4 @@
-# R Scripts for calculating black-sky, white-sky, and actual albedo (MCD43A) from MCD43A1 BRDF Parameters
+# Calculate black-sky, white-sky, and actual albedo (MCD43A) from MCD43A1 BRDF Parameters using R
 
 ![Broken Image Link --- browse image](https://github.com/jjmcnelis/mcd43-calculated-albedo/blob/master/readme/browse_image.PNG?raw=true)
 
