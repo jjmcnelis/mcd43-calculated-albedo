@@ -39,7 +39,7 @@ To request a compatible subset, choose **Area Sample** from the ***Extract*** bu
 
 You will receive an email upon order completion.
 
-An example input file is provided: *./example-data/MCD43A1.006_aid0001.nc*. You can submit an identical AppEEARS request by uploading the supplied GeoJSON: *./example-data/MCD43A1-FL-Everglades-request.json*
+An example input file is provided: *./example-data/MCD43A1.006_aid0001.nc*. You can submit an identical AppEEARS request by uploading the supplied GeoJSON: *./example-data/MCD43A1-Texas-request.json*
 
 #### Usage
 
