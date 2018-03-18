@@ -78,7 +78,7 @@ Output will be a NetCDF with the following data variables:
 * **shortwave_white_sky_albedo**
 * **shortwave_actual_albedo**
 
-An example output file is provided: *./example-data/output/MCD43A_calcalbedo.nc*
+An example output file is provided: *./example-output/MCD43A_calcalbedo.nc*
 
 ## MCD43A Calculated Albedo
 
