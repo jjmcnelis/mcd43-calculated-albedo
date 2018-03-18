@@ -8,7 +8,7 @@ While some users are content to use the MODIS black-sky albedo at local solar no
 
 In MODIS Collection 5, MCD43 was generated in 16-day composite time intervals. In Collection 6 (C6), MCD43 is a daily product; thus, the data volume is prohibitively large. The large data volume for MCD43 in C6 was the motivation for writing these scripts. 
 
-See below for more information about MCD43A Calculated Albedo.
+[See below for more information about MCD43A Calculated Albedo.](https://github.com/jjmcnelis/mcd43-calculated-albedo#mcd43a-calculated-albedo)
 
 For more information about MODIS, visit the LP DAAC's [MODIS Overview](https://lpdaac.usgs.gov/dataset_discovery/modis) page.
 
