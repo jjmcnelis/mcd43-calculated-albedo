@@ -55,7 +55,7 @@ SolOptDepth <- 0.20
 SolZenAngle <- 'local'
 
 # Set path to output NetCDF
-out_dir <- paste(wkd, 'output/', sep = '')
+out_dir <- paste(wkd, 'example-output/', sep = '')
 out_filename <- ''
 suppressWarnings(dir.create(out_dir))
 ```
