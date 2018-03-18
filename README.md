@@ -110,7 +110,7 @@ and the estimates of the white-sky kernel integrals are:
 
 Actual (blue-sky) albedo is interpolated between black- and white-sky albedo as a function of the fraction of diffuse skylight which is itself a function of the aerosol optical depth:
 
-![Broken Image Link --- actual albedo](https://github.com/jjmcnelis/mcd43-calculated-albedo/blob/master/readme/actualalbedo.png?raw=true)
+![Broken Image Link --- actual albedo](https://github.com/jjmcnelis/mcd43-calculated-albedo/blob/master/readme/actualalbedo1.png?raw=true)
 
 Lewis, P., and M. J. Barnsley, Influence of the sky radiance distribution on various formulations of the earth surface albedo, in Proc. Conf. Phys. Meas. Sign. Remote Sens., Val d'Isere, France, pp. 707-715, 1994.
 
