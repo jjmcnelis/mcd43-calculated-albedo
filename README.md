@@ -1,5 +1,7 @@
 # Calculate black-sky, white-sky, and actual albedo (MCD43A) from MCD43A1 BRDF Parameters using R
 
+R script for calculating black-sky, white-sky, and actual albedo from MODIS MCD43A1 BRDF parameters product with custom solar zenith angle and solar optical depth inputs. Input and output in NetCDF format.
+
 ![Broken Image Link --- browse image](https://github.com/jjmcnelis/mcd43-calculated-albedo/blob/master/readme/browse_image.PNG?raw=true)
 
 ### Why?
