@@ -39,7 +39,9 @@ To request a compatible subset, choose **Area Sample** from the ***Extract*** bu
 
 You will receive an email upon order completion.
 
-An example input file is provided: *./example-data/MCD43A1.006_aid0001.nc*. You can submit an identical AppEEARS request by uploading the supplied GeoJSON: *./example-data/MCD43A1-Texas-request.json*
+An example input file is provided: [*./example-data/MCD43A1.006_aid0001.nc*](https://github.com/jjmcnelis/mcd43-calculated-albedo/blob/master/example-data/MCD43A1.006_aid0001.nc). 
+
+You can submit an identical AppEEARS request by uploading the supplied GeoJSON: [*./example-data/MCD43A1-Texas-request.json*](https://github.com/jjmcnelis/mcd43-calculated-albedo/blob/master/example-data/MCD43A1-Texas-request.json).
 
 #### Usage
 
@@ -82,7 +84,7 @@ Output will be a NetCDF with the following data variables:
 * **shortwave_white_sky_albedo**
 * **shortwave_actual_albedo**
 
-An example output file is provided: *./example-output/MCD43A_calcalbedo.nc*
+An example output file is provided: [*./example-output/MCD43A_calcalbedo.nc*](https://github.com/jjmcnelis/mcd43-calculated-albedo/blob/master/example-output/MCD43A_calcalbedo.nc).
 
 ## MCD43A Calculated Albedo
 
