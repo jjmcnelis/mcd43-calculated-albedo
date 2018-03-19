@@ -43,12 +43,12 @@ An example input file is provided: [*./example-data/MCD43A1.006_aid0001.nc*](htt
 
 You can submit an identical AppEEARS request by uploading the supplied GeoJSON: [*./example-data/MCD43A1-Texas-request.json*](https://github.com/jjmcnelis/mcd43-calculated-albedo/blob/master/example-data/MCD43A1-Texas-request.json).
 
-#### Usage
-
 **Requirements**
 * [ncdf4](https://cran.r-project.org/web/packages/ncdf4/index.html)
 * [raster](https://cran.r-project.org/web/packages/raster/index.html)
 * [RAtmosphere](https://cran.r-project.org/web/packages/RAtmosphere/index.html)
+
+#### Usage
 
 The primary script (*main_albedo.R*) calls the functions defined in *f_albedo.R*. Open *main_albedo.R* and make a few edits to the settings in the first section:
 ```
