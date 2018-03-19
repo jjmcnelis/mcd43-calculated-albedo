@@ -45,6 +45,11 @@ You can submit an identical AppEEARS request by uploading the supplied GeoJSON: 
 
 #### Usage
 
+**Requirements**
+* [ncdf4](https://cran.r-project.org/web/packages/ncdf4/index.html)
+* [raster](https://cran.r-project.org/web/packages/raster/index.html)
+* [RAtmosphere](https://cran.r-project.org/web/packages/RAtmosphere/index.html)
+
 The primary script (*main_albedo.R*) calls the functions defined in *f_albedo.R*. Open *main_albedo.R* and make a few edits to the settings in the first section:
 ```
 # Set your working directory
