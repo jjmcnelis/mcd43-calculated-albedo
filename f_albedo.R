@@ -1,5 +1,5 @@
 #####################################################################################
-# These functions are called by the loop function in proc_albedo.R
+# These functions are called by the loop function in main_albedo.R
 #
 #::METHODS::
 # 
